@@ -16,8 +16,6 @@ public:
             
         }
 
-
-
         if(revNumber==original){
             return true;
         }
