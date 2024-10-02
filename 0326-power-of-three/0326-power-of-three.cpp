@@ -2,6 +2,7 @@
 class Solution {
 public:
     bool isPowerOfThree(int n) {
+        //best approach
         if(n==1){
             return true;
 
@@ -14,6 +15,7 @@ public:
         if(floor (logvalue) == ceil (logvalue)){
             return true;
         }
+        //good approach
        // if(n==1){
         //    return true;
         //}
