@@ -1,14 +1,27 @@
+#include<bits/stdc++.h>
 class Solution {
 public:
     bool isPowerOfThree(int n) {
         if(n==1){
             return true;
+
         }
-        if (n<=0 || n%3!=0){
+        if(n<=0 || n%3!=0){
             return false;
         }
-        return isPowerOfThree(n/3);
+        double logvalue=log10(n)/log10(3);
+
+        if(floor (logvalue) == ceil (logvalue)){
+            return true;
+        }
+       // if(n==1){
+        //    return true;
+        //}
+        //if (n<=0 || n%3!=0){
+        //    return false;
+       // }
+        //return isPowerOfThree(n/3);
         
-    
-    }
+return false;
+    }   
 };
