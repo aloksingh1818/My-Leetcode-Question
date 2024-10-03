@@ -18,12 +18,10 @@ public:
          return -1;
         } 
         
-
-
     
     
-    int pivotIndex(vector<int>& nums) {
-        return bruteforce(nums);
+        int pivotIndex(vector<int>& nums) {
         
+      return bruteforce(nums);  
     }
 };
