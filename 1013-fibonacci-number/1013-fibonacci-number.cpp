@@ -9,14 +9,14 @@ public:
             if(n==1){
                 return 1;
             }
-            for(int i=2;i<=n;i++){
+            //for(int i=2;i<=n;i++){
 
-                nextterm=t1+t2;
-                t1=t2;
-                t2=nextterm;
+              //  nextterm=t1+t2;
+              //  t1=t2;
+              //  t2=nextterm;
             
-            }
-           return t2;
+            //}
+           return( fib(n-1) + fib (n-2));
          } 
  
 };
