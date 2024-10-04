@@ -1,3 +1,24 @@
+//-------------------------------------BRUTE FORCE APPROACH RECURSIVE APPROACH-------------------
+
+/*
+class Solution {
+public:
+    int tribonacci(int n) {
+        if(n==0){
+            return 0;
+        }
+        if(n==1){
+            return 1;
+        }
+        
+        return(tribonacci(n-1)+tribonacci(n-2)+tribonacci(n-3));
+    }
+};
+*/
+
+
+//-----------------OPTIMAL SOLUTION---------------------------------
+
 class Solution {
 public:
     int tribonacci(int n) {
@@ -16,6 +37,6 @@ public:
         }
         return t3;
         
-        return(tribonacci(n-1)+tribonacci(n-2)+tribonacci(n-3));
+
     }
 };
