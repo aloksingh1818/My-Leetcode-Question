@@ -38,13 +38,15 @@ public:
             return ;
         }
         k=k%n;
-
-
+        // Reverse first n-k elements
+        //Reverse(arr, 0, n - k - 1);
         reverse(nums.begin(),nums.begin() +(n-k));
 
+        // Reverse last k elements
         //Reverse(arr, n - k, n - 1);
         reverse(nums.begin() +(n-k),nums.end());
-
+        
+        // Reverse whole array
         //Reverse(arr, 0, n - 1);
         reverse(nums.begin(),nums.end());
     }
