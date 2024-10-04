@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
 ## Database
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
