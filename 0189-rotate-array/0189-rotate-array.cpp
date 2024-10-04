@@ -1,3 +1,5 @@
+//-------------------------BRUTE FORCE APPROAC-----------------------------------
+/*
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
@@ -23,3 +25,27 @@ public:
         
     }
 };
+
+*/
+
+//---------------------OPTIMAL APPROACH----------------------------------------------
+
+class Solution {
+public:
+    void rotate(vector<int>& nums, int k) {
+        int n=nums.size();
+        if(n==0){
+            return ;
+        }
+        k=k%n;
+
+
+        reverse(nums.begin(),nums.begin() +(n-k));
+
+        //Reverse(arr, n - k, n - 1);
+        reverse(nums.begin() +(n-k),nums.end());
+
+        //Reverse(arr, 0, n - 1);
+        reverse(nums.begin(),nums.end());
+    }
+};   
