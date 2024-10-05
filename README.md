@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
