@@ -1,5 +1,40 @@
-//---------------------BETTER SOLUTION USING ONE TEMP ARRAY -----------------------
+//--------------------OPTIMAL SOLUTION TWO POINTER APPROACH ----------------------
 
+
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+        int n = nums.size();  // Get the size of the input array
+        int j = -1;
+        
+        // Place the pointer j at the first occurrence of a zero
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == 0) {
+                j = i;
+                break;
+            }
+        }
+
+        // If there are no zero elements, return (array is already fine)
+        if (j == -1) return;
+        
+        // Move the pointers i and j and swap non-zero elements accordingly
+        for (int i = j + 1; i < n; i++) {
+            if (nums[i] != 0) {
+                swap(nums[i], nums[j]);
+                j++;
+            }
+        }
+    }
+};
+
+
+
+
+
+
+//---------------------BETTER SOLUTION USING ONE TEMP ARRAY -----------------------
+/*
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
@@ -28,7 +63,7 @@ public:
     }
 };
 
-
+8/
 
 
 //-------------------BRUTE FORCE USING TWO VECTOR ------------------------
