@@ -74,4 +74,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
