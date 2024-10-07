@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 | [2406-decode-the-message](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2406-decode-the-message) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2406-decode-the-message) |
