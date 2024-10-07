@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [2406-decode-the-message](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2406-decode-the-message) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2406-decode-the-message](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
 | ------- |
