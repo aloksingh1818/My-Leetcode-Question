@@ -5,7 +5,7 @@ public:
         char start = 'a';
         char mapping[280]={0};
         for(auto ch:key){
-            if(ch != ' ' && mapping[ch]==0){
+            if(ch != ' ' && mapping[ch]== 0){
                 mapping[ch]= start;
                 start++;
             }
