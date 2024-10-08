@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 ## Simulation
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
 | [2406-decode-the-message](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/2406-decode-the-message) |
@@ -99,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
