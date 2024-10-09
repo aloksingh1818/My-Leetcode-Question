@@ -1,4 +1,4 @@
-//two pointer approach
+//two pointer approach Best method
 
 class Solution {
 public:
