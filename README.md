@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1236-n-th-tribonacci-number) |
 ## Array
