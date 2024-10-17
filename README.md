@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
 ## Prefix Sum
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
 ## Trie
 |  |
 | ------- |
