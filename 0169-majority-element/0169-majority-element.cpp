@@ -1,4 +1,5 @@
 //----------------by using the sorting then returning the n/2 index  -------------------
+/*
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
@@ -9,26 +10,28 @@ public:
     }
 };
 
-/*
+*/
 
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int count=0;
-        int i=0;
+        int count = 1; // Start with 1 since the first element is counted
+        int candidate = nums[0]; // Assume the first element is the majority candidate
         
-        int n=nums.size();
-        for(int i=0;i<n-1;i++){
-            if(nums[i]==nums[i+1]){
-                count=count+1;
+        int n = nums.size();
+        for(int i = 1; i < n; i++) {
+            if(nums[i] == candidate) {
+                count++;
+            } else {
+                count--;
+            }
+            
+            if(count == 0) {
+                candidate = nums[i];
+                count = 1;
             }
         }
-        if(count>=n/2){
-             return nums[i];
-            }
-
-        return 0;
+        
+        return candidate;
     }
 };
-
-*/
