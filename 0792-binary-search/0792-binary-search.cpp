@@ -5,8 +5,6 @@ public:
             if(nums[i]==target){
                 return i;
             }
-
-       
         }
         return -1;
     }
