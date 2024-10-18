@@ -5,8 +5,6 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        int i=0;
-        //int j=nums.size()-1;
         int n=nums.size();
         sort(nums.begin(),nums.end());
 
