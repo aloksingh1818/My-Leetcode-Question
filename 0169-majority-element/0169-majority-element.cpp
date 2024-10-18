@@ -10,6 +10,9 @@ public:
     }
 };
 
+
+
+//------------------------by using the  Boyer-Moore Voting Algorithm---------------------
 */
 
 class Solution {
