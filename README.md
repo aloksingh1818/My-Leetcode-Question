@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
 ## Simulation
 |  |
