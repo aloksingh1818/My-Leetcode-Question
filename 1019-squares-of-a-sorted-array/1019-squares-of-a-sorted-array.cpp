@@ -1,3 +1,5 @@
+//----this is not optimal approach because time os big o NlogN and space 1 extra 
+
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
