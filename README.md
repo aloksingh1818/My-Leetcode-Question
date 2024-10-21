@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
+| [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
 | [0953-reverse-only-letters](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
