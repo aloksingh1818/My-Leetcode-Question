@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0414-third-maximum-number) |
 | [0807-custom-sort-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0807-custom-sort-string) |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -160,8 +162,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
