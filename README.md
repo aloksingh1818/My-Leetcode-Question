@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Trie
 |  |
 | ------- |
