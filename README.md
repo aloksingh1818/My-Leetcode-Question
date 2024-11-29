@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1013-fibonacci-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0169-majority-element) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
