@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0242-valid-anagram](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0647-palindromic-substrings) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/aloksingh1818/My-Leetcode-Question/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
