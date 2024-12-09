@@ -1,27 +1,31 @@
 class Solution:
-    def findSubstring(self, s, words):
-        if not s or not words: return []
-        n, m, word_len = len(s), len(words), len(words[0])
-        word_count = {}
-        for word in words:
-            word_count[word] = word_count.get(word, 0) + 1
-        result = []
-        for i in range(word_len):
-            left, count = i, 0
-            curr_word_count = {}
-            for right in range(i, n - word_len + 1, word_len):
-                word = s[right:right + word_len]
+    def findSubstring(self, s: str, words: List[str]) -> List[int]:
+        n, m, k = len(s), len(words), len(words[0])
+        word_count = Counter(words)
+        total_len = m * k
+        res = []
+
+        for i in range(k):
+            left = i
+            sub_count = Counter()
+            count = 0
+
+            for j in range(i, len(s) - k + 1, k):
+                word = s[j:j + k]
                 if word in word_count:
-                    curr_word_count[word] = curr_word_count.get(word, 0) + 1
+                    sub_count[word] += 1
                     count += 1
-                    while curr_word_count[word] > word_count[word]:
-                        curr_word_count[s[left:left + word_len]] -= 1
-                        left += word_len
+
+                    while sub_count[word] > word_count[word]:
+                        sub_count[s[left:left + k]] -= 1
+                        left += k
                         count -= 1
+
                     if count == m:
-                        result.append(left)
+                        res.append(left)
                 else:
-                    left = right + word_len
-                    curr_word_count.clear()
+                    sub_count.clear()
                     count = 0
-        return result
+                    left = j + k
+
+        return res
